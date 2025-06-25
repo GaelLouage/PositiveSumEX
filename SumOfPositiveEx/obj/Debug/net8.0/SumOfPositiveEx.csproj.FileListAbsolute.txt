@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\SumOfPositiveEx\SumOfPositiveEx\bin\Debug\net8.0\SumOfPositiveEx.exe
+C:\Users\louag\source\repos\SumOfPositiveEx\SumOfPositiveEx\bin\Debug\net8.0\SumOfPositiveEx.deps.json
+C:\Users\louag\source\repos\SumOfPositiveEx\SumOfPositiveEx\bin\Debug\net8.0\SumOfPositiveEx.runtimeconfig.json
+C:\Users\louag\source\repos\SumOfPositiveEx\SumOfPositiveEx\bin\Debug\net8.0\SumOfPositiveEx.dll
+C:\Users\louag\source\repos\SumOfPositiveEx\SumOfPositiveEx\bin\Debug\net8.0\SumOfPositiveEx.pdb
+C:\Users\louag\source\repos\SumOfPositiveEx\SumOfPositiveEx\obj\Debug\net8.0\SumOfPositiveEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\SumOfPositiveEx\SumOfPositiveEx\obj\Debug\net8.0\SumOfPositiveEx.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\SumOfPositiveEx\SumOfPositiveEx\obj\Debug\net8.0\SumOfPositiveEx.AssemblyInfo.cs
+C:\Users\louag\source\repos\SumOfPositiveEx\SumOfPositiveEx\obj\Debug\net8.0\SumOfPositiveEx.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\SumOfPositiveEx\SumOfPositiveEx\obj\Debug\net8.0\SumOfPositiveEx.dll
+C:\Users\louag\source\repos\SumOfPositiveEx\SumOfPositiveEx\obj\Debug\net8.0\refint\SumOfPositiveEx.dll
+C:\Users\louag\source\repos\SumOfPositiveEx\SumOfPositiveEx\obj\Debug\net8.0\SumOfPositiveEx.pdb
+C:\Users\louag\source\repos\SumOfPositiveEx\SumOfPositiveEx\obj\Debug\net8.0\SumOfPositiveEx.genruntimeconfig.cache
+C:\Users\louag\source\repos\SumOfPositiveEx\SumOfPositiveEx\obj\Debug\net8.0\ref\SumOfPositiveEx.dll
